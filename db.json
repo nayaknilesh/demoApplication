@@ -1,0 +1,20 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "firstname": "Nilesh",
+      "lastname": "Nilesh",
+      "email": "nileshnayak9348@gmail.com",
+      "mobile": "9059665981",
+      "salary": "400000"
+    },
+    {
+      "id": 2,
+      "firstname": "Dwibesh",
+      "lastname": "Nayak",
+      "email": "dwibeshnayak9348@gmail.com",
+      "mobile": "9059665982",
+      "salary": "400000"
+    }
+  ]
+}
